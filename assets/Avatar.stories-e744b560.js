@@ -1,0 +1,2 @@
+import{A as t}from"./index-2fb641b7.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/osvaldokalvaitir.png",alt:"Osvaldo Kalvaitir"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories-e744b560.js.map
